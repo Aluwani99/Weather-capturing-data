@@ -1,0 +1,32 @@
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\bin\Debug\WeatherStore.exe.config
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\bin\Debug\WeatherStore.exe
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\bin\Debug\WeatherStore.pdb
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\obj\Debug\WeatherStore.csprojAssemblyReference.cache
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\obj\Debug\WeatherStore.Form1.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\obj\Debug\WeatherStore.Properties.Resources.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\obj\Debug\WeatherStore.Registration.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\obj\Debug\WeatherStore.WeatherForecast.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\obj\Debug\WeatherStore.csproj.GenerateResource.cache
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\obj\Debug\WeatherStore.csproj.CoreCompileInputs.cache
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\obj\Debug\WeatherStore.exe
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\obj\Debug\WeatherStore.pdb
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\obj\Debug\WeatherStore.GeneralUser.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\obj\Debug\WeatherStore.WeatherAdmin.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\obj\Debug\WeatherStore.Admin.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\TASK 2\WeatherStore\WeatherStore\obj\Debug\WeatherStore.Search.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\bin\Debug\WeatherStore.exe.config
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\bin\Debug\WeatherStore.exe
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\bin\Debug\WeatherStore.pdb
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\obj\Debug\WeatherStore.csprojAssemblyReference.cache
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\obj\Debug\WeatherStore.Admin.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\obj\Debug\WeatherStore.Form1.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\obj\Debug\WeatherStore.GeneralUser.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\obj\Debug\WeatherStore.Properties.Resources.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\obj\Debug\WeatherStore.Registration.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\obj\Debug\WeatherStore.Search.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\obj\Debug\WeatherStore.WeatherAdmin.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\obj\Debug\WeatherStore.WeatherForecast.resources
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\obj\Debug\WeatherStore.csproj.GenerateResource.cache
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\obj\Debug\WeatherStore.csproj.CoreCompileInputs.cache
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\obj\Debug\WeatherStore.exe
+C:\Users\Rambau\Documents\Assessment Finish\SEMESTER TWO\Programming 2A\Assessment\POE\WeatherStore\WeatherStore\obj\Debug\WeatherStore.pdb

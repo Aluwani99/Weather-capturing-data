@@ -1,0 +1,4 @@
+Email ID 
+Username 
+Password 
+Confirm Password 

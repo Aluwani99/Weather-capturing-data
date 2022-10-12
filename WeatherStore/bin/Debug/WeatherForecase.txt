@@ -1,0 +1,10 @@
+Johannesburg,Saturday, 10 October 2020,22,22,22,22,22
+Johannesburg,Saturday, 10 October 2020,11,11,11,11,11
+Cape Town,Saturday, 10 October 2020,22,22,22,22,22
+Cape Town,Saturday, 10 October 2020,11,11,11,11,11
+Cape Town,Saturday, 10 October 2020,11,11,11,11,11
+Bloemfontein,Saturday, 10 October 2020,22,22,22,22,22
+Bloemfontein,Saturday, 10 October 2020,11,11,11,11,11
+Bloemfontein,Saturday, 10 October 2020,22,22,22,22,22
+Durban,Saturday, 10 October 2020,11,11,11,11,11
+Durban,Saturday, 10 October 2020,22,22,22,22,22
